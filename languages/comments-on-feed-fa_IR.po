@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Comments On Feed\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-23 21:28+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Reza Moallemi <reza.ce84@gmail.com>\n"
+"Language-Team: Reza Moallemi <moallemi.blog@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments-list.php:5
+#: comments-write.php:4
+msgid "Invalid request."
+msgstr "درخواست شما نامعتبر است."
+
+#: comments-list.php:12
+msgid "Comment for "
+msgstr " ارسال نظر برای "
+
+#: comments-list.php:157
+#, php-format
+msgid "%s comment(s) for \"%s\": "
+msgstr "%s دیدگاه برای نوشته‌ی \"%s\": "
+
+#: comments-list.php:162
+msgid "Comments are closed."
+msgstr "نظرات بسته است."
+
+#: comments-on-feed.php:40
+#: comments-on-feed.php:198
+msgid "Write a quick comment"
+msgstr "ارسال نظر سریع"
+
+#: comments-on-feed.php:44
+msgid "Settings Saved."
+msgstr "تنظیمات ذخیره شد."
+
+#: comments-on-feed.php:51
+msgid "Comments On Feed Settings"
+msgstr "تنظیمات نظرات در فید"
+
+#: comments-on-feed.php:52
+msgid "General Settings:"
+msgstr "تنظیمات عمومی"
+
+#: comments-on-feed.php:55
+msgid "Avatar"
+msgstr "آواتار"
+
+#: comments-on-feed.php:57
+msgid "Show Avatar."
+msgstr "آواتار نظردهندگان را نمایش بده."
+
+#: comments-on-feed.php:61
+msgid "Avatar Size"
+msgstr "اندازه‏ی آواتار"
+
+#: comments-on-feed.php:70
+msgid "Number of comments on post"
+msgstr "تعداد دیدگاه‌ها در هر نوشته"
+
+#: comments-on-feed.php:73
+msgid "Set the value to <b>-1</b> if you want to show all comments."
+msgstr "اگر می‏خواهید همه‏ی نظرات نمایش داده شود، مقدار را برابر <b>1-</b> قرار دهید."
+
+#: comments-on-feed.php:77
+msgid "Comments Order"
+msgstr "نحوه‏ی نمایش دیدگاه‌ها"
+
+#: comments-on-feed.php:80
+msgid "Oldest first"
+msgstr "قدیمی‏ترین در ابتدا"
+
+#: comments-on-feed.php:81
+msgid "Newest first"
+msgstr "جدیدترین در ابتدا"
+
+#: comments-on-feed.php:86
+msgid "Button Settings"
+msgstr "تنظیمات دکمه"
+
+#: comments-on-feed.php:89
+msgid "Button Posintion"
+msgstr "محل دکمه"
+
+#: comments-on-feed.php:92
+msgid "After comments"
+msgstr "بعد از دیدگاه‌ها"
+
+#: comments-on-feed.php:93
+msgid "Before comments"
+msgstr "قبل از دیدگاه‌ها"
+
+#: comments-on-feed.php:98
+msgid "Button Type"
+msgstr "نوع دکمه"
+
+#: comments-on-feed.php:108
+msgid "Text"
+msgstr "متن"
+
+#: comments-on-feed.php:130
+msgid "Button text"
+msgstr "متن دکمه"
+
+#: comments-on-feed.php:137
+msgid "Save Changes"
+msgstr "ذخیره‏ی تغییرات"
+
+#: comments-on-feed.php:141
+msgid "My other plugins for wordpress:"
+msgstr "دیگر افزونه‏های کاوشگر برای وردپرس:"
+
+#: comments-on-feed.php:143
+msgid "Extended Gravatar"
+msgstr "گراواتار توسعه یافته"
+
+#: comments-on-feed.php:144
+#: comments-on-feed.php:148
+#: comments-on-feed.php:152
+#: comments-on-feed.php:156
+#: comments-on-feed.php:160
+#: comments-on-feed.php:164
+#: comments-on-feed.php:168
+#: comments-on-feed.php:172
+msgid "Download"
+msgstr "دریافت"
+
+#: comments-on-feed.php:145
+msgid "http://www.moallemi.ir/blog/1390/05/09/%D8%A7%D9%81%D8%B2%D9%88%D9%86%D9%87-%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3-%DA%AF%D8%B1%D8%A7%D9%88%D8%A7%D8%AA%D8%A7%D8%B1-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%DB%8C%D8%A7%D9%81%D8%AA%D9%87/"
+msgstr ""
+
+#: comments-on-feed.php:145
+#: comments-on-feed.php:149
+#: comments-on-feed.php:153
+#: comments-on-feed.php:157
+#: comments-on-feed.php:161
+#: comments-on-feed.php:165
+#: comments-on-feed.php:169
+#: comments-on-feed.php:173
+msgid "More Information"
+msgstr "اطلاعات بیشتر"
+
+#: comments-on-feed.php:147
+msgid "Likekhor"
+msgstr "لایک‌خور"
+
+#: comments-on-feed.php:149
+msgid "http://www.moallemi.ir/blog/1389/11/22/%D8%A7%D9%81%D8%B2%D9%88%D9%86%D9%87-%D9%84%D8%A7%DB%8C%DA%A9-%D8%AE%D9%88%D8%B1-%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3-%D8%A2%D9%85%D8%A7%D8%B1-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87/"
+msgstr ""
+
+#: comments-on-feed.php:151
+msgid "Google Reader Stats "
+msgstr "آماره‏ی گوگل ریدر"
+
+#: comments-on-feed.php:153
+msgid "http://www.moallemi.ir/en/blog/2010/06/03/google-reader-stats-for-wordpress/"
+msgstr "http://www.moallemi.ir/blog/1389/03/14/%D8%A7%D9%81%D8%B2%D9%88%D9%86%D9%87-%D8%A2%D9%85%D8%A7%D8%B1%D9%87-%DA%AF%D9%88%DA%AF%D9%84-%D8%B1%DB%8C%D8%AF%D8%B1-%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3-%D9%84%D8%A7%DB%8C%DA%A9/"
+
+#: comments-on-feed.php:155
+msgid "Google Transliteration "
+msgstr "نویسه گردان گوگل"
+
+#: comments-on-feed.php:157
+msgid "http://www.moallemi.ir/en/blog/2009/10/10/google-transliteration-for-wordpress/"
+msgstr "http://www.moallemi.ir/blog/1388/07/19/%d8%a7%d9%81%d8%b2%d9%88%d9%86%d9%87-%db%8c-%d9%86%d9%88%db%8c%d8%b3%d9%87-%da%af%d8%b1%d8%af%d8%a7%d9%86-%da%af%d9%88%da%af%d9%84-%d8%a8%d8%b1%d8%a7%db%8c-%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3/"
+
+#: comments-on-feed.php:159
+msgid "Behnevis Transliteration "
+msgstr "نویسه گردان بهنویس"
+
+#: comments-on-feed.php:163
+msgid "Advanced User Agent Displayer "
+msgstr "نمایش دهنده‏ی اطلاعات نظردهندگان"
+
+#: comments-on-feed.php:165
+msgid "http://www.moallemi.ir/en/blog/2009/09/20/advanced-user-agent-displayer/"
+msgstr "http://www.moallemi.ir/blog/1388/07/24/%D8%A7%D9%81%D8%B2%D9%88%D9%86%D9%87-%DB%8C-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%DB%8C-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D9%86%D8%B8%D8%B1-%D8%AF%D9%87%D9%86%D8%AF/"
+
+#: comments-on-feed.php:167
+msgid "Feed Delay "
+msgstr "تاخیر در فید"
+
+#: comments-on-feed.php:169
+msgid "http://www.moallemi.ir/en/blog/2010/02/25/feed-delay-for-wordpress/"
+msgstr "http://www.moallemi.ir/blog/1388/12/07/%d8%a7%d9%81%d8%b2%d9%88%d9%86%d9%87-%d8%a7%d9%86%d8%aa%d8%b4%d8%a7%d8%b1-%d9%85%d8%b7%d8%a7%d9%84%d8%a8-%d9%81%db%8c%d8%af-%d8%aa%d8%a7%d8%ae%db%8c%d8%b1-%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3/"
+
+#: comments-on-feed.php:171
+msgid "Contact Commenter "
+msgstr "تماس با نظردهندگان"
+
+#: comments-on-feed.php:173
+msgid "http://www.moallemi.ir/blog/1388/12/27/%d9%87%d8%af%db%8c%d9%87-%da%a9%d8%a7%d9%88%d8%b4%da%af%d8%b1-%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%aa-%d8%b3%d8%a7%d9%84-%d9%86%d9%88-%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3/"
+msgstr ""
+
+#: comments-on-feed.php:188
+msgid "Comments On Feed"
+msgstr "نظرات در فید"
+
+#: comments-on-feed.php:254
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: comments-on-feed.php:283
+msgid " more comment(s)."
+msgstr " نظر دیگر"
+
+#: comments-on-feed.php:290
+msgid " comment(s) for this post:"
+msgstr " دیدگاه برای این نوشته:"
+
+#: comments-on-feed.php:297
+#: comments-on-feed.php:335
+#: comments-on-feed.php:347
+msgid " | View "
+msgstr " | مشاهده‌ "
+
+#: comments-on-feed.php:374
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#: comments-on-feed.php:374
+msgid "F jS, Y"
+msgstr ""
+
+#: comments-on-feed.php:374
+msgid "g:i a"
+msgstr ""
+
+#: comments-on-feed.php:375
+msgid "Edit"
+msgstr "ویرایش"
+
+#: comments-on-feed.php:379
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما در منتظر تایید است."
+
+#: comments-on-feed.php:399
+msgid "This plugin lets you show each post comments on post feed."
+msgstr "با استفاده از این افزونه می‌توانید دیدگاه‌های یک نوشته را بدون مراجعه به نوشته و از طریق فیذ آن نوشته بخوانید. همچنین امکان ارسال دیدگاه جدید به صورت مستقیم از فید هم امکانپذیر می‌باشد."
+
+#: comments-on-feed.php:400
+msgid "Reza Moallemi"
+msgstr "رضا معلمی"
+
+#: comments-write.php:9
+#, php-format
+msgid "%1$s - Comments on %2$s"
+msgstr "%1$s - دیدگاه‌ها برای  %2$s"
+
+#: comments-write.php:37
+msgid "Your comment was sent successfully."
+msgstr "نظر شما با موفقیت ارسال شد."
+
+#: comments-write.php:39
+msgid "View this post"
+msgstr "مشاهده‌ی نوشته"
+
+#: comments-write.php:40
+msgid "View other comments"
+msgstr "مشاهده‌ی دیدگاه‌های دیگر"
+
+#: comments-write.php:41
+msgid "Close this window"
+msgstr "بستن پنجره"
+
+#: comments-write.php:46
+#, php-format
+msgid "Leave a comment for \"%s\": "
+msgstr "  ارسال نظر برای نوشته‌ی \"%s\":"
+
+#: comments-write.php:49
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr ""
+
+#: comments-write.php:53
+msgid "Name"
+msgstr "نام"
+
+#: comments-write.php:58
+msgid "E-mail"
+msgstr "ایمیل"
+
+#: comments-write.php:63
+msgid "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+msgstr ""
+
+#: comments-write.php:68
+msgid "Your Comment"
+msgstr "قبل از دیدگاه‌ها"
+
+#: comments-write.php:76
+msgid "Say It!"
+msgstr ""
+
+#: comments-write.php:81
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments-write.php:85
+msgid "Close this window."
+msgstr "بستن پنجره"
+
+#~ msgid "Site"
+#~ msgstr "وب‌سایت"
+
+#~ msgid "Send"
+#~ msgstr "ارسال"
+
+#~ msgid "says: "
+#~ msgstr "می‏گوید:"
+
+#~ msgid "No comments yet."
+#~ msgstr "دیدگاهی نوشته نشده است."

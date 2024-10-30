@@ -1,0 +1,248 @@
+# Translation of the WordPress plugin Comments On Feed 0.9.1.1 by Reza Moallemi.
+# Copyright (C) 2010 Reza Moallemi
+# This file is distributed under the same license as the Comments On Feed package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Comments On Feed 0.9.1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/comments-on-feed\n"
+"POT-Creation-Date: 2010-07-10 12:57+0000\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: comments-on-feed.php:26 comments-on-feed.php:176
+msgid "Write a quick comment"
+msgstr ""
+
+#: comments-on-feed.php:30
+msgid "Settings Saved."
+msgstr ""
+
+#: comments-on-feed.php:37
+msgid "Comments On Feed Settings"
+msgstr ""
+
+#: comments-on-feed.php:38
+msgid "General Settings:"
+msgstr ""
+
+#: comments-on-feed.php:41
+msgid "Avatar"
+msgstr ""
+
+#: comments-on-feed.php:43
+msgid "Show Avatar."
+msgstr ""
+
+#: comments-on-feed.php:47
+msgid "Avatar Size"
+msgstr ""
+
+#: comments-on-feed.php:56
+msgid "Number of comments on post"
+msgstr ""
+
+#: comments-on-feed.php:59
+msgid "Set the value to <b>-1</b> if you want to show all comments."
+msgstr ""
+
+#: comments-on-feed.php:63
+msgid "Comments Order"
+msgstr ""
+
+#: comments-on-feed.php:66
+msgid "Oldest first"
+msgstr ""
+
+#: comments-on-feed.php:67
+msgid "Newest first"
+msgstr ""
+
+#: comments-on-feed.php:72
+msgid "Button Settings"
+msgstr ""
+
+#: comments-on-feed.php:75
+msgid "Button Posintion"
+msgstr ""
+
+#: comments-on-feed.php:78
+msgid "After comments"
+msgstr ""
+
+#: comments-on-feed.php:79
+msgid "Before comments"
+msgstr ""
+
+#: comments-on-feed.php:84
+msgid "Button Type"
+msgstr ""
+
+#: comments-on-feed.php:94
+msgid "Text"
+msgstr ""
+
+#: comments-on-feed.php:116
+msgid "Button text"
+msgstr ""
+
+#: comments-on-feed.php:123
+msgid "Save Changes"
+msgstr ""
+
+#: comments-on-feed.php:127
+msgid "My other plugins for wordpress:"
+msgstr ""
+
+#: comments-on-feed.php:129
+msgid "Google Reader Stats "
+msgstr ""
+
+#: comments-on-feed.php:130 comments-on-feed.php:134 comments-on-feed.php:138
+#: comments-on-feed.php:142 comments-on-feed.php:146 comments-on-feed.php:150
+msgid "Download"
+msgstr ""
+
+#: comments-on-feed.php:131
+msgid ""
+"http://www.moallemi.ir/en/blog/2010/06/03/google-reader-stats-for-wordpress/"
+msgstr ""
+
+#: comments-on-feed.php:131 comments-on-feed.php:135 comments-on-feed.php:139
+#: comments-on-feed.php:143 comments-on-feed.php:147 comments-on-feed.php:151
+msgid "More Information"
+msgstr ""
+
+#: comments-on-feed.php:133
+msgid "Google Transliteration "
+msgstr ""
+
+#: comments-on-feed.php:135
+msgid ""
+"http://www.moallemi.ir/en/blog/2009/10/10/google-transliteration-for-"
+"wordpress/"
+msgstr ""
+
+#: comments-on-feed.php:137
+msgid "Behnevis Transliteration "
+msgstr ""
+
+#: comments-on-feed.php:141
+msgid "Advanced User Agent Displayer "
+msgstr ""
+
+#: comments-on-feed.php:143
+msgid "http://www.moallemi.ir/en/blog/2009/09/20/comments-on-feed/"
+msgstr ""
+
+#: comments-on-feed.php:145
+msgid "Feed Delay "
+msgstr ""
+
+#: comments-on-feed.php:147
+msgid "http://www.moallemi.ir/en/blog/2010/02/25/feed-delay-for-wordpress/"
+msgstr ""
+
+#: comments-on-feed.php:149
+msgid "Contact Commenter "
+msgstr ""
+
+#: comments-on-feed.php:151
+msgid ""
+"http://www.moallemi.ir/blog/1388/12/27/%d9%87%d8%af%db%8c%d9%87-%da%a9%d8%a7%"
+"d9%88%d8%b4%da%af%d8%b1-%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%aa-%d8%b3%d8%a7%d9%"
+"84-%d9%86%d9%88-%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3/"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Comments On Feed 0.9.1.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: comments-on-feed.php:166
+msgid "Comments On Feed"
+msgstr ""
+
+#: comments-on-feed.php:209
+msgid "Settings"
+msgstr ""
+
+#: comments-on-feed.php:241
+msgid " comment(s) for this post:"
+msgstr ""
+
+#: comments-on-feed.php:248 comments-on-feed.php:287 comments-on-feed.php:300
+msgid " | View "
+msgstr ""
+
+#: comments-on-feed.php:250 comments-on-feed.php:289 comments-on-feed.php:302
+msgid " more comment(s)."
+msgstr ""
+
+#: comments-template.php:5
+msgid "Invalid request."
+msgstr ""
+
+#: comments-template.php:11
+msgid "Your comment was sent successfully."
+msgstr ""
+
+#: comments-template.php:13
+msgid "View this post"
+msgstr ""
+
+#: comments-template.php:14
+msgid "View other comments"
+msgstr ""
+
+#: comments-template.php:15
+msgid "Close this window"
+msgstr ""
+
+#: comments-template.php:25
+msgid "Send comment for "
+msgstr ""
+
+#: comments-template.php:51
+msgid "Write a comment for \""
+msgstr ""
+
+#: comments-template.php:55
+msgid "Name"
+msgstr ""
+
+#: comments-template.php:61
+msgid "Email"
+msgstr ""
+
+#: comments-template.php:65
+msgid "Site"
+msgstr ""
+
+#: comments-template.php:71
+msgid "Send"
+msgstr ""
+
+#: comments-template.php:75
+msgid "Comments are disable."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://www.moallemi.ir/en/blog/2009/12/18/comments-on-feed-for-wordpress/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin lets you show each post comments on post feed."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Reza Moallemi"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.moallemi.ir/blog"
+msgstr ""

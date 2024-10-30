@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Comments On Feed v0.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-01-17 15:37+0000\n"
+"Last-Translator: admin <pdworniak@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: comments-on-feed.php:18
+#@ comments-on-feed
+msgid "Comments On Feed"
+msgstr "Comments On Feed"
+
+#: comments-on-feed.php:57
+#@ comments-on-feed
+msgid "Settings Saved."
+msgstr "Ustawienia zapisane."
+
+#: comments-on-feed.php:63
+#@ comments-on-feed
+msgid "Comments On Feed Settings"
+msgstr "Ustawienia wtyczki"
+
+#: comments-on-feed.php:64
+#@ comments-on-feed
+msgid "General Settings:"
+msgstr "Ustawienia ogólne:"
+
+#: comments-on-feed.php:65
+#@ comments-on-feed
+msgid "Show Avatar."
+msgstr "Pokaż Avatara."
+
+#: comments-on-feed.php:66
+#@ comments-on-feed
+msgid "Avatar Size:"
+msgstr "Rozmiar Avatara:"
+
+#: comments-on-feed.php:72
+#@ comments-on-feed
+msgid "Number of comments to show on each feed item: "
+msgstr "Ilość komentarzy do pokazania pod każdym wpisem:"
+
+#: comments-on-feed.php:74
+#@ comments-on-feed
+msgid "Set the value to <b>0</b> if you want to show all comments."
+msgstr "Ustaw wartość na <b>0</b> jeśli mają być pokazane wszystkie komentarze."
+
+#: comments-on-feed.php:76
+#@ comments-on-feed
+msgid "Comments Order:"
+msgstr "Kolejność komentarzy:"
+
+#: comments-on-feed.php:78
+#@ comments-on-feed
+msgid "Oldest first"
+msgstr "Od najstarszych"
+
+#: comments-on-feed.php:79
+#@ comments-on-feed
+msgid "Newest first"
+msgstr "Najpierw najnowsze"
+
+#: comments-on-feed.php:83
+#@ comments-on-feed
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: comments-on-feed.php:87
+#@ comments-on-feed
+msgid "My other plugins for wordpress:"
+msgstr "Inne wtyczki do WP mojego autorstwa:"
+
+#: comments-on-feed.php:89
+#@ comments-on-feed
+msgid "Google Transliteration "
+msgstr "Google Transliteration "
+
+#: comments-on-feed.php:90
+#: comments-on-feed.php:94
+#: comments-on-feed.php:98
+#@ comments-on-feed
+msgid "Download"
+msgstr "Pobierz"
+
+#: comments-on-feed.php:91
+#@ comments-on-feed
+msgid "http://www.moallemi.ir/en/blog/2009/10/10/google-transliteration-for-wordpress/"
+msgstr "http://www.moallemi.ir/en/blog/2009/10/10/google-transliteration-for-wordpress/"
+
+#: comments-on-feed.php:91
+#: comments-on-feed.php:95
+#: comments-on-feed.php:99
+#@ comments-on-feed
+msgid "More Information"
+msgstr "Więcej informacji"
+
+#: comments-on-feed.php:93
+#@ comments-on-feed
+msgid "Advanced User Agent Displayer "
+msgstr "Advanced User Agent Displayer "
+
+#: comments-on-feed.php:95
+#@ comments-on-feed
+msgid "http://www.moallemi.ir/en/blog/2009/09/20/advanced-user-agent-displayer/"
+msgstr "http://www.moallemi.ir/en/blog/2009/09/20/advanced-user-agent-displayer/"
+
+#: comments-on-feed.php:97
+#@ comments-on-feed
+msgid "Behnevis Transliteration "
+msgstr "Behnevis Transliteration "
+
+#: comments-on-feed.php:114
+#@ comments-on-feed
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: comments-on-feed.php:134
+#@ comments-on-feed
+msgid " commnent(s) for this post:"
+msgstr " komentarze/y do tego wpisu:"
+
+#: comments-on-feed.php:144
+#@ comments-on-feed
+msgid "says: "
+msgstr "napisał/a:"
+
